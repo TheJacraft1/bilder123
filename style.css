@@ -1,0 +1,18 @@
+#track_image{
+	text-align: center;
+	float:unset;
+}
+html{
+	float: left;
+	text-align: center;
+	background: blue;
+}
+.show_song_no{
+	display: flex;
+	list-style: none;
+	position: relative;
+	text-decoration: none;
+	align-items: center;
+	position: relative;
+	justify-content: center;
+}

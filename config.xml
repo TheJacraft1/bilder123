@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.localhost"
+    versionCode = "10"
+    version     = "1.4.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Minigame Nr.1</name>
+
+  <description>
+    Ein kleines minispiel
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      TheJacraft1
+  </author>
+  <icon src="logo 10.png" />
+
+</widget>
